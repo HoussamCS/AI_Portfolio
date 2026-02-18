@@ -1,0 +1,18 @@
+{
+  "name": "ai-portfolio",
+  "version": "1.0.0",
+  "description": "Modern AI Engineer Portfolio Website",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Build script placeholder'"
+  },
+  "keywords": [
+    "portfolio",
+    "ai",
+    "engineer",
+    "machine-learning"
+  ],
+  "author": "Houssam El Azami El Idrissi",
+  "license": "MIT"
+}
