@@ -199,14 +199,14 @@ AI_Portfolio/
 This portfolio demonstrates:
 - Modern CSS techniques (Grid, Flexbox, Gradients, Animations)
 - Responsive design patterns
-- Vanilla JavaScript DOM manipulation
+- JavaScript DOM manipulation
 - Intersection Observer API for scroll animations
 - Mobile-first development
 - Professional UI/UX design principles
 
 ## 👤 Contact & Links
 
-- **Email**: houssam@example.com
+- **Email**: houssamCan23@gmai.com
 - **GitHub**: [HoussamCS](https://github.com/HoussamCS)
 - **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/houssam)
 - **Location**: Morocco
