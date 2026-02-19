@@ -202,6 +202,26 @@ body::before {
     transform: translateY(-3px);
 }
 
+.btn-cv {
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    color: white;
+    border: none;
+    box-shadow: 0 4px 20px rgba(16, 185, 129, 0.3);
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-cv:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(16, 185, 129, 0.5);
+    background: linear-gradient(135deg, #059669 0%, #047857 100%);
+}
+
+.btn-cv i {
+    font-size: 0.9em;
+}
+
 /* ============================================
    HERO SECTION
    ============================================ */
